@@ -30,7 +30,7 @@ We investigate how macroeconomic factors influence S&P 500 (SPY) performance:
    
 ---
 
-##  🧹 3. Data Cleaning & Wrangling
+##  🧹 3. Data Cleaning & Wrangling 
    - Standardized dates, dropped duplicates/unused columns  
    - Reshaped stock data, removed GDP metadata, merged on year
      
