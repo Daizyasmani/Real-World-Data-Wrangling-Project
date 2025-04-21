@@ -1,4 +1,4 @@
-# 🚀 Real‑World Data Wrangling Project
+# 🚀 SPY‑GDP Data Wrangling Pipeline
 
 An end‑to‑end wrangling and exploratory analysis of two datasets—daily stock‑market indices and macroeconomic indicators—to uncover how GDP growth drives market volatility.
 
